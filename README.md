@@ -57,8 +57,9 @@
 
 ### 📊 GitHub Stats:
 
-![Janani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jananibalu&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jananibalu&layout=compact&theme=radical)
+![Janani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jananibalu&show_icons=true&theme=radical)
+
 
 ---
 

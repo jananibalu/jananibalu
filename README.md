@@ -13,7 +13,7 @@
   
 - 💬 Ask me about **React, Redux, JavaScript, TypeScript, Bootstrap**
   
-- 📫 Reach me at **janani.balu@gmail.com**
+- 📫 Reach me at **jananibalu2050@gmail.com**
   
 - 📄 Know about my work: [My Portfolio](https://janani-balu-portfolio.vercel.app/)
   
@@ -28,7 +28,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:janani.balu@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/email.svg" alt="Gmail" width="40" height="40"/>
   </a>
   <a href="https://janani-balu-portfolio.vercel.app/" target="_blank">
     <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="Portfolio" width="40" height="40"/>

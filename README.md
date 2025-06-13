@@ -21,7 +21,7 @@
 
 ---
 
-### 🌐 Connect with me:
+### Connect with me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/janani-balu-86a31923b/" target="_blank">
@@ -38,7 +38,7 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+### Languages and Tools:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
@@ -55,7 +55,7 @@
 
 ---
 
-### 📊 GitHub Stats:
+### GitHub Stats:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jananibalu&layout=compact&theme=radical)
 ![Janani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jananibalu&show_icons=true&theme=radical)
@@ -63,7 +63,7 @@
 
 ---
 
-### 🚀 Project Highlights
+### Project Highlights
 
 📌 Check out my portfolio: [janani-balu-portfolio.vercel.app](https://janani-balu-portfolio.vercel.app/)
 

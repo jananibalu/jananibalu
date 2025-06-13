@@ -25,10 +25,11 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/janani-balu-86a31923b/" target="_blank">
-    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg](https://cdn.jsdelivr.net/npm/@internetarchive/icon-email@1.3.4/email.svg)" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="mailto:janani.balu@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/email.svg" alt="Gmail" width="40" height="40"/>
+  <a href="mailto:jananibalu2050@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/@internetarchive/icon-email@1.3.4/email.svg" alt="Gmail" width="40" height="40"/>
+    
   </a>
   <a href="https://janani-balu-portfolio.vercel.app/" target="_blank">
     <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="Portfolio" width="40" height="40"/>

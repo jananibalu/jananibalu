@@ -29,10 +29,6 @@
   </a>
   <a href="mailto:jananibalu2050@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/@internetarchive/icon-email@1.3.4/email.svg" alt="Gmail" width="40" height="40"/>
-    
-  </a>
-  <a href="https://janani-balu-portfolio.vercel.app/" target="_blank">
-    <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="Portfolio" width="40" height="40"/>
   </a>
 </p>
 

@@ -8,10 +8,15 @@
 ---
 
 - 🔭 I’m currently working on **React-based Frontend Projects**
+  
 - 🌱 I’m learning **TypeScript, Redux Toolkit, and Advanced UI Animations**
+  
 - 💬 Ask me about **React, Redux, JavaScript, TypeScript, Bootstrap**
+  
 - 📫 Reach me at **janani.balu@gmail.com**
+  
 - 📄 Know about my work: [My Portfolio](https://janani-balu-portfolio.vercel.app/)
+  
 - ⚡ Fun fact: I love turning clean UIs into pixel-perfect magic ✨
 
 ---
